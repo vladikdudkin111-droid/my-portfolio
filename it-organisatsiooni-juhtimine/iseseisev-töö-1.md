@@ -1,5 +1,12 @@
 # Iseseisev töö 1 – Määrused asjaajamises
 
+## 📌 Menü
+- [Avaleht](index.md)
+- [Iseseisev töö 1](iseseisev-töö-1.md)
+- [Iseseisev töö 2](iseseisev-töö-2.md)
+
+---
+
 Selles iseseisvas töös uurisin, mis on määrused ja milline on nende roll asjaajamises. 
 Määrus on õigusakt, mille eesmärk on täpsustada seadusi ja aidata neid praktiliselt rakendada. 
 Sain teada, et määrusi annavad välja valitsus, ministrid ja kohalikud omavalitsused. 
