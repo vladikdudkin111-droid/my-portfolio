@@ -1,5 +1,12 @@
 # Iseseisev töö 2 – Toote elutsükkel ja logistika
 
+## 📌 Menü
+- [Avaleht](index.md)
+- [Iseseisev töö 1](iseseisev-töö-1.md)
+- [Iseseisev töö 2](iseseisev-töö-2.md)
+
+---
+
 Selles iseseisvas töös uurisin toote elutsüklit ja logistika rolli ettevõttes. 
 Sain teada, et toote elutsükkel koosneb neljast etapist: sissejuhatus, kasv, küpsus ja langus. 
 Iga etapp mõjutab seda, kuidas toodet toodetakse ja müüakse. 
